@@ -12,6 +12,8 @@ As a Jr. Full Stack Developer, I completed the Full Stack Web Development progra
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/beyzanurkeskin/).
 
+📧 You can also reach me via  [email](beyzanrkeskinn94@gmail.com)  at.
+
 ---
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
